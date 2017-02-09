@@ -1,5 +1,4 @@
 #Twitter Sentiment R Project
-###Peter Luft
 
 The purpose of this sentiment project was to analyze the sentiment surrounding Childish Gambino's polarizing new album, "Awaken My Love". Tweets were collected following the release of the second single from the album, and was a few days prior to the release of it. Naturally, there was plenty of Twitter discourse surrounding this release, namely because stylistically the album was much different from previous works by this artist. 
 
